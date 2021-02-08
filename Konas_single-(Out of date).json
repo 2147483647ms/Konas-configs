@@ -1,0 +1,2098 @@
+[
+  {
+    "Modules": [
+      {
+        "Capes": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false
+        }
+      },
+      {
+        "CameraClip": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "Offset": false,
+          "Distance": -10.0
+        }
+      },
+      {
+        "Breadcrumbs": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "MaxVertices": 20,
+          "Color": [
+            -1,
+            false
+          ]
+        }
+      },
+      {
+        "BlockHighlight": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "OUTLINE",
+          "Width": 3,
+          "Color": [
+            -8669205,
+            false
+          ]
+        }
+      },
+      {
+        "Chams": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": false,
+          "Mode": "NOLIGHT",
+          "VisibleColor": [
+            -419377921,
+            false
+          ],
+          "ShowTargets": false,
+          "Players": false,
+          "Animals": false,
+          "Mobs": false,
+          "Items": false,
+          "Crystals": true
+        }
+      },
+      {
+        "Translate": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "Search": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "CustomBlocks": [],
+          "Range": 100.0,
+          "Color": [
+            -16711681,
+            false
+          ],
+          "Default": true,
+          "Custom": true,
+          "Tracers": false,
+          "Fill": true,
+          "Outline": true,
+          "SlowRender": false
+        }
+      },
+      {
+        "Spammer": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Delay": 5.0,
+          "File": "spammer.txt",
+          "Random": true,
+          "AntiAntiSpam": false
+        }
+      },
+      {
+        "Sky": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Time": 5714,
+          "Color": [
+            -15461356,
+            false
+          ]
+        }
+      },
+      {
+        "AirStrafe": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "VisualRange": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Leaves": true
+        }
+      },
+      {
+        "OldAnimations": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "ViewModel": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "CancelEating": false,
+          "SnapEat": false,
+          "CustomEating": false,
+          "MainHandX": 26.19,
+          "MainHandY": -23.81,
+          "MainHandZ": -30.95,
+          "MainHandXS": -11.9,
+          "MainHandYS": -9.52,
+          "MainHandZS": -9.52,
+          "OffHandX": -45.24,
+          "OffHandY": -23.81,
+          "OffHandZ": -30.95,
+          "OffHandXS": -11.9,
+          "OffHandYS": -9.52,
+          "OffHandZS": -14.29,
+          "ItemFov": true,
+          "ItemFovValue": 115.71
+        }
+      },
+      {
+        "NoWeather": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true
+        }
+      },
+      {
+        "PingSpoof": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Ms": 200
+        }
+      },
+      {
+        "SantaESP": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "SmartWhisper": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "PacketRender": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "Scaffold": {
+          "Bind": "Y",
+          "Enabled": false,
+          "Visible": true,
+          "Delay": 3,
+          "Tower": true,
+          "AutoSwitch": false,
+          "CancelMotion": false,
+          "Safe": true,
+          "Rotate": true,
+          "Filter": "ALL",
+          "CustomBlocks": []
+        }
+      },
+      {
+        "ChestStealer": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Delay": 100,
+          "Random": false
+        }
+      },
+      {
+        "Anchor": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "VRange": 3,
+          "Delay": 10,
+          "Mode": "BEDROCK",
+          "PitchTrigger": false,
+          "Pitch": 0,
+          "TurnOffAfter": false,
+          "Magnet": false,
+          "Magnetization": 6,
+          "RangeXZ": 8
+        }
+      },
+      {
+        "Tracers": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "ShowTargets": true,
+          "ShowDistanceColor": true,
+          "Width": 2.0
+        }
+      },
+      {
+        "GUIMove": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Strict": true,
+          "Crouch": false
+        }
+      },
+      {
+        "InvCleaner": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Items": [],
+          "Hotbar": true,
+          "Delay": 500
+        }
+      },
+      {
+        "HotbarRefill": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "RefillThreshold": 36,
+          "Delay": 1
+        }
+      },
+      {
+        "Sprint": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "Mode": "LEGIT"
+        }
+      },
+      {
+        "FastUse": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "FastXP": true,
+          "GhostFix": false,
+          "FastBow": false,
+          "FastPlace": false,
+          "PlaceWhitelist": false,
+          "Whitelist": []
+        }
+      },
+      {
+        "Freecam": {
+          "Bind": "X",
+          "Enabled": false,
+          "Visible": true,
+          "Interaction": "CAMERA",
+          "Speed": 1.0
+        }
+      },
+      {
+        "Swing": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "CANCEL",
+          "Strict": false,
+          "Shuffle": false
+        }
+      },
+      {
+        "YawLock": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Diagonals": true,
+          "Render": true,
+          "Entities": false,
+          "Speed": 0.1
+        }
+      },
+      {
+        "Timer": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "TimerSpeed": 4.0,
+          "TpsSync": false
+        }
+      },
+      {
+        "SkinBlinker": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Delay": 0.0,
+          "Random": true
+        }
+      },
+      {
+        "Reach": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Reach": 5.25
+        }
+      },
+      {
+        "Step": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "NCP",
+          "StepHeight": 1.04,
+          "Reverse": false,
+          "UseTimer": true,
+          "SpeedDisable": false,
+          "AutoDisable": false
+        }
+      },
+      {
+        "Avoid": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Fire": true,
+          "PressurePlates": true,
+          "Wires": true,
+          "Cactus": true,
+          "Unloaded": true
+        }
+      },
+      {
+        "EnderBackpack": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "AutoTool": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Weapons": true
+        }
+      },
+      {
+        "ReverseStep": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": false
+        }
+      },
+      {
+        "DualUse": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": false
+        }
+      },
+      {
+        "BreakTweaks": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "Speed": {
+          "Bind": "H",
+          "Enabled": false,
+          "Visible": true,
+          "Speed": 1.19,
+          "UseTimer": true,
+          "Factor": 1.55,
+          "Mode": "STRAFE",
+          "Hypixel": false,
+          "AllowEat": false,
+          "DisableOnSneak": true,
+          "ForceSprint": false,
+          "Boost": false
+        }
+      },
+      {
+        "KznnorExploit": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Backdoor": false,
+          "Bypass": false
+        }
+      },
+      {
+        "EntityControl": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "OnlyTamed": false
+        }
+      },
+      {
+        "BetterPortals": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "AllowGuis": true,
+          "NoRender": true,
+          "NoHitbox": false
+        }
+      },
+      {
+        "AntiHunger": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Sprint": true,
+          "Ground": true
+        }
+      },
+      {
+        "BeaconSelector": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "AntiVoid": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "AntiAim": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "SpinSpeed": 10.0
+        }
+      },
+      {
+        "AutoArmor": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "ElytraPrio": false,
+          "Delay": 1
+        }
+      },
+      {
+        "Parkour": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "BoatPlace": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "AntiLevitation": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "NoWeb": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Mode": "BYPASS"
+        }
+      },
+      {
+        "Blink": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "LiquidInteract": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "FullBright": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false
+        }
+      },
+      {
+        "FreeLook": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "AutoThirdPerson": true
+        }
+      },
+      {
+        "MiddleClick": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "TP": false,
+          "XP": false,
+          "XPInHoles": false,
+          "Friends": true
+        }
+      },
+      {
+        "KonasChat": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "ROT13",
+          "Encrypt": true
+        }
+      },
+      {
+        "FakePlayer": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "SpawnMode": "SINGLE",
+          "CopyInventory": true
+        }
+      },
+      {
+        "ESP": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Entities": false,
+          "Mode": "OUTLINE",
+          "Skeleton": false,
+          "Csgo": false,
+          "Width": 1.25,
+          "Offset": 3.0,
+          "Show Targets": true,
+          "Players": true,
+          "PlayerColor": [
+            -52237,
+            false
+          ],
+          "Animals": false,
+          "AnimalColor": [
+            -12779725,
+            false
+          ],
+          "Mobs": true,
+          "MobColor": [
+            -65536,
+            false
+          ],
+          "Items": true,
+          "ItemColor": [
+            -2509,
+            false
+          ],
+          "World": false,
+          "Storage": true,
+          "Void": false,
+          "SlimeChunks": false,
+          "Seed": 0
+        }
+      },
+      {
+        "ExtraTab": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false
+        }
+      },
+      {
+        "HoleBreakAlert": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "EntityTrails": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Color": [
+            -1,
+            false
+          ],
+          "Timeout": true,
+          "Seconds": 10
+        }
+      },
+      {
+        "NewChunks": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Color": [
+            1691768467,
+            false
+          ]
+        }
+      },
+      {
+        "Nametags": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Targets": false,
+          "Animals": false,
+          "Mobs": false,
+          "Players": true,
+          "Waypoints": false,
+          "Coords": true,
+          "Dist": false,
+          "Name": false,
+          "Gamemode": false,
+          "Ping": true,
+          "Health": true,
+          "Friends": true,
+          "Fill": true,
+          "Outline": true,
+          "LineWidth": 1.0,
+          "Info": false,
+          "Armor": true,
+          "Stacks": true,
+          "Durability": true,
+          "Enchants": true,
+          "Scaling": false,
+          "FrustumCheck": true,
+          "Scale": 0.5,
+          "ScaleFactor": 2.0,
+          "ScaleLimit": 1.75,
+          "ArmorSpacing": 42,
+          "EnchantSpacing": 70,
+          "Misc": false,
+          "SelfNametag": false
+        }
+      },
+      {
+        "Nuker": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "NORMAL",
+          "Timing": "SEQUENTIAL",
+          "Range": 3.5,
+          "Below": false,
+          "Rotate": true
+        }
+      },
+      {
+        "NoRender": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "NoHurtCam": false,
+          "NoWeather": true,
+          "NoFire": true,
+          "NoBossBar": true,
+          "NoBats": true,
+          "Armor": true,
+          "Mob": false,
+          "Object": false,
+          "XP": true,
+          "Explosions": true,
+          "Item": false,
+          "Water": true,
+          "Lava": true,
+          "Blocks": true,
+          "EnchantmentTable": true,
+          "Beacon": true
+        }
+      },
+      {
+        "Trajectories": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Color": [
+            -5635841,
+            true
+          ],
+          "Width": 0.0
+        }
+      },
+      {
+        "NoDesync": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Place": true,
+          "Destroy": true,
+          "Position": true,
+          "InvalidPackets": true,
+          "Use": false,
+          "Mode": "FOOD",
+          "Items": []
+        }
+      },
+      {
+        "HoleESP": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "RangeXZ": 5,
+          "RangeY": 5,
+          "Width": 1.75,
+          "Height": 0.1,
+          "Opacity": 16,
+          "Mode": "BOTTOM",
+          "TwoBlock": true,
+          "Bedrock": true,
+          "BedrockColor": [
+            -7864065,
+            false
+          ],
+          "Obsidian": true,
+          "ObiColor": [
+            -3926390,
+            false
+          ]
+        }
+      },
+      {
+        "NoSoundLag": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "Interactions": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Breaking": true,
+          "BRenderMove": "SHRINK",
+          "BOutline": true,
+          "BWireframe": false,
+          "BWidth": 1.5,
+          "BOutlineColor": [
+            -1,
+            false
+          ],
+          "BCrossOutlineColor": [
+            -65536,
+            false
+          ],
+          "BFill": true,
+          "BFillColor": [
+            1724517365,
+            false
+          ],
+          "BCrossFillColor": [
+            1727987712,
+            false
+          ],
+          "BTracer": false,
+          "BTracerColor": [
+            -65536,
+            false
+          ],
+          "Placing": false,
+          "POutline": true,
+          "PWireframe": false,
+          "PWidth": 1.5,
+          "POutlineColor": [
+            -657931,
+            false
+          ],
+          "PFill": false,
+          "PFillColor": [
+            1711276287,
+            false
+          ]
+        }
+      },
+      {
+        "NoEntityTrace": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "PickaxeOnly": false
+        }
+      },
+      {
+        "AutoRespawn": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Safe": false
+        }
+      },
+      {
+        "AntiBot": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "AutoReconnect": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Delay": 5
+        }
+      },
+      {
+        "XCarry": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "ChatAppend": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": false
+        }
+      },
+      {
+        "BlockAura": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Grass": true,
+          "SourceRemover": true,
+          "AutoSwitch": true,
+          "PlaceDelay": 40,
+          "BreakDelay": 2,
+          "RangeXZ": 3,
+          "RangeY": 3,
+          "Rotations": true
+        }
+      },
+      {
+        "AntiSpam": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "Discord Invites": true,
+          "Announcer": false
+        }
+      },
+      {
+        "AutoMend": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Lookdown": true,
+          "AutoXP": true,
+          "Armor": true,
+          "Threshold": 60,
+          "AttackCheck": true,
+          "CrystalRange": 6.0
+        }
+      },
+      {
+        "SpeedMine": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "PACKET",
+          "Speed": 0.8,
+          "Intensity": 1,
+          "Fall": true
+        }
+      },
+      {
+        "AutoGG": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "GG": true,
+          "EZ": false,
+          "Log": false,
+          "Excuses": false,
+          "Pops": false
+        }
+      },
+      {
+        "AutoNametag": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Range": 4.3,
+          "Rotate": true,
+          "IgnoreNamed": true,
+          "AutoSwitch": true,
+          "SwitchBack": false,
+          "Withers": true,
+          "Mobs": false,
+          "Animals": false
+        }
+      },
+      {
+        "WorldBorder": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "AutoMount": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Rotate": true,
+          "Bypass": false,
+          "Range": 4,
+          "Delay": 1.0,
+          "Boats": false,
+          "Horses": false,
+          "SkeletonHorses": false,
+          "Donkeys": true,
+          "Pigs": false,
+          "Llamas": false
+        }
+      },
+      {
+        "AutoBrew": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Type": "SwiftnessII",
+          "Mod": "NONE",
+          "AutoOpen": true,
+          "AutoClose": false,
+          "AutoPlace": false
+        }
+      },
+      {
+        "ClickGUI": {
+          "Bind": "RSHIFT",
+          "Enabled": false,
+          "Visible": true,
+          "Primary": [
+            -5635841,
+            false
+          ],
+          "Secondary": [
+            -821425654,
+            false
+          ],
+          "Background": [
+            1325400064,
+            false
+          ],
+          "Height": 325.0,
+          "ScrollSpeed": 15,
+          "Animate": true,
+          "AnimationSpeed": 10,
+          "CustomFont": true
+        }
+      },
+      {
+        "HUD": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Potions": false,
+          "PotionIcons": true,
+          "Blur": false,
+          "Anchoring": false,
+          "CustomFont": true
+        }
+      },
+      {
+        "AutoEat": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Health": 10.0,
+          "Hunger": 15.0,
+          "AutoSwitch": true,
+          "PreferGaps": false
+        }
+      },
+      {
+        "FastLadder": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "ElytraFly": {
+          "Bind": "B",
+          "Enabled": true,
+          "Visible": true,
+          "Mode": "NORMAL",
+          "AutoSwitch": false,
+          "Factor": 5.0,
+          "MinSpeed": 20,
+          "UpFactor": 1.0,
+          "DownFactor": 1.0,
+          "ForceHeight": false,
+          "Height": 121,
+          "GroundSafety": false,
+          "TriggerHeight": 0.3,
+          "Speed": 1.0,
+          "DownSpeed": 1.0,
+          "InstantFly": true,
+          "SpeedLimit": true,
+          "MaxSpeed": 2.5,
+          "NoDrag": false,
+          "Accelerate": true,
+          "Acceleration": 1.0,
+          "NCPStrict": false,
+          "AntiKick": true,
+          "InfDurability": true
+        }
+      },
+      {
+        "HighJump": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Height": 2.0,
+          "Ground": true
+        }
+      },
+      {
+        "FastSwim": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Speed": 1.87,
+          "AntiKick": true
+        }
+      },
+      {
+        "Offhand": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "Totem": true,
+          "Gapple": false,
+          "Crystal": true,
+          "Strict": false,
+          "HotbarTotem": false,
+          "TotemHealth": 13.29,
+          "RightClickGap": true,
+          "CrystalCheck": "DAMAGE",
+          "CrystalRange": 10.0,
+          "FallCheck": true,
+          "FallDist": 30.36,
+          "ExtraSafe": false,
+          "ClearAfter": true,
+          "Hard": false,
+          "NotFromHotbar": true,
+          "DefaultItem": "TOTEM"
+        }
+      },
+      {
+        "BoatFly": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "FixYaw": true,
+          "AntiKick": true,
+          "Setback": false,
+          "Confirm": false,
+          "Bypass": true,
+          "Constrict": true,
+          "Speed": 1.29,
+          "VSpeed": 0.5,
+          "SafetyFactor": 1,
+          "MaxSetbacks": 10
+        }
+      },
+      {
+        "AutoWalk": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "PathFind": true,
+          "Jump": true,
+          "Timeout": true
+        }
+      },
+      {
+        "CreativeFly": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Speed": 10.0
+        }
+      },
+      {
+        "KillAura": {
+          "Bind": "V",
+          "Enabled": false,
+          "Visible": true,
+          "Range": 6.0,
+          "Targeting": false,
+          "Animals": false,
+          "Mobs": true,
+          "Players": true,
+          "AttackFriends": false,
+          "AntiCheat": false,
+          "Timing": "SEQUENTIAL",
+          "Rotations": true,
+          "RayTrace": false,
+          "Strict": false,
+          "TPSSync": "NORMAL",
+          "Speed": false,
+          "Mode": "DYNAMIC",
+          "TickDelay": 12,
+          "Misc": false,
+          "AutoSwitch": true,
+          "NoGapSwitch": true,
+          "AutoBlock": false,
+          "SwordOnly": false,
+          "OnlyInHoles": false,
+          "DisableWhenCA": false,
+          "OnlyWhenNoTargets": true,
+          "Check32k": false
+        }
+      },
+      {
+        "Surround": {
+          "Bind": "C",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "NORMAL",
+          "Triggerable": false,
+          "Anchor": false,
+          "DisableStrafe": false,
+          "BlocksPerTick": 3,
+          "TickDelay": 0,
+          "Timeout": 50,
+          "AutoCenter": true,
+          "DisableOnJump": true,
+          "Rotate": true
+        }
+      },
+      {
+        "AntiAFK": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Seconds": 15,
+          "Jump": true,
+          "Rotations": true,
+          "Move": true,
+          "AutoReply": false,
+          "FriendCoords": false,
+          "Delay": 1.0
+        }
+      },
+      {
+        "NoSlow": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Strict": false,
+          "NCP": false
+        }
+      },
+      {
+        "TrapMiner": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "TargetRange": 4.5,
+          "Self": false,
+          "Strict": false,
+          "OnlyOnce": true,
+          "Rotate": true,
+          "AutoSwitch": true,
+          "SwitchBack": false
+        }
+      },
+      {
+        "Velocity": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "Horizontal": 0.0,
+          "Vertical": 0.0,
+          "NoPush": true,
+          "NoHook": true
+        }
+      },
+      {
+        "LongJump": {
+          "Bind": "9",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "BYPASS",
+          "Speed": 1.2,
+          "Modifier": 1.04,
+          "Glide": 1.0,
+          "ShortJump": false,
+          "DisableStrafe": true,
+          "GroundCheck": "NONE",
+          "AutoDisable": true
+        }
+      },
+      {
+        "TotemPopCounter": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "PistonAura": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "TargetRange": 3,
+          "Delay": 500,
+          "Strict": false,
+          "Raytrace": false,
+          "AntiSuicide": false,
+          "CrystalDelay": 4.5,
+          "PushDelay": 4.5,
+          "RestartDelay": 9.5,
+          "Render": false,
+          "Current": true,
+          "ColorC": [
+            1354711231,
+            false
+          ],
+          "OutlineC": [
+            -4243265,
+            false
+          ],
+          "Full": true,
+          "ColorF": [
+            817840192,
+            false
+          ],
+          "OutlineF": [
+            -809549760,
+            false
+          ],
+          "Arrow": true,
+          "ArrowColor": [
+            -65281,
+            false
+          ],
+          "Top": false,
+          "Bottom": true
+        }
+      },
+      {
+        "IceSpeed": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false
+        }
+      },
+      {
+        "StrictTotem": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Delay": 0
+        }
+      },
+      {
+        "SelfBow": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Swiftness": false,
+          "Strength": true,
+          "Toggelable": false,
+          "AutoSwitch": false,
+          "Rearrange": false,
+          "NoGapSwitch": false,
+          "MinHealth": 20
+        }
+      },
+      {
+        "Jesus": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "SOLID",
+          "Glide": true,
+          "EntityJesus": true,
+          "Strict": true
+        }
+      },
+      {
+        "CrystalBlocker": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "TickDelay": 2,
+          "AutoSwitch": true,
+          "Strict": false,
+          "Rotate": true,
+          "DrawBlock": true,
+          "Color": [
+            -65536,
+            false
+          ]
+        }
+      },
+      {
+        "CrystalAura": {
+          "Bind": "Q",
+          "Enabled": false,
+          "Visible": true,
+          "Break": "SELF",
+          "Place": "NORMAL",
+          "MaxTargets": 5,
+          "Priority": "RANGE",
+          "NetDamage": true,
+          "AntiSuicide": true,
+          "Predict": false,
+          "Webs": false,
+          "AntiSurround": true,
+          "Cache": true,
+          "AntiCheat": true,
+          "Timing": "ADAPTIVE",
+          "Accuracy": "NCP",
+          "Rotation": "SPACIAL",
+          "RayTrace": "BOTH",
+          "Trace": "SPACIAL",
+          "Constrict": false,
+          "Inhibit": true,
+          "Dynamic": true,
+          "Limiter": 0.5,
+          "MaxTorque": 0.34,
+          "1.13": false,
+          "Ranges": true,
+          "HitRange": 5.39,
+          "PlaceRange": 5.05,
+          "PlaceYRange": 3,
+          "WallsRange": 3.0,
+          "TargetRange": 10.0,
+          "Speeds": true,
+          "BreakSpeed": 14,
+          "PlaceSpeed": 14,
+          "RandomSpeed": 0.0,
+          "Damages": true,
+          "MinBreakDmg": 2.25,
+          "MinPlaceDmg": 4.05,
+          "DamageScale": 0.5,
+          "Safety": true,
+          "Compromise": 0.5,
+          "MaxSelfDmg": 14.4,
+          "Faceplace": true,
+          "MinHealth": 10.0,
+          "LethalMultiplier": 0.0,
+          "ArmorBreaker": true,
+          "Depletion": 0.19,
+          "Switch": "NONE",
+          "SwitchSpeed": 10,
+          "AntiWeakness": true,
+          "NoGhostHit": true,
+          "Pause": false,
+          "Mining": false,
+          "Gapping": false,
+          "RightClickGap": false,
+          "XPing": false,
+          "KillAura": false,
+          "PistonAura": true,
+          "Render": false,
+          "Swing": true,
+          "Box": true,
+          "Damage": true,
+          "CustomFont": true,
+          "Color": [
+            -1010876225,
+            true
+          ],
+          "Outline": [
+            -15461356,
+            false
+          ]
+        }
+      },
+      {
+        "HoleFill": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Smart": false,
+          "TargetRange": 4,
+          "AutoSwitch": true,
+          "RangeXZ": 3,
+          "RangeY": 3,
+          "Delay": 0,
+          "HoleMode": "BEDROCK",
+          "ScanOnce": true,
+          "SwitchBack": false,
+          "DisableWhenNone": false,
+          "Strict": false,
+          "Rotate": true,
+          "RayTrace": false
+        }
+      },
+      {
+        "Criticals": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": true,
+          "TargetMode": "BYPASS",
+          "Vehicles": false,
+          "Hits": 3,
+          "Delay": 1,
+          "OnlyWhenKA": true
+        }
+      },
+      {
+        "AutoWeb": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "TargetRange": 4.5,
+          "BlocksPerTick": 2,
+          "Delay": 0,
+          "Top": true,
+          "Self": false,
+          "Strict": false,
+          "Rotate": true,
+          "SwitchBack": false
+        }
+      },
+      {
+        "AutoTrap": {
+          "Bind": "BACKSLASH",
+          "Enabled": false,
+          "Visible": true,
+          "TargetRange": 4.5,
+          "BlocksPerTick": 1,
+          "Delay": 5,
+          "Top": true,
+          "Self": false,
+          "Strict": false,
+          "Rotate": true,
+          "SwitchBack": false,
+          "LogoutSpots": false
+        }
+      },
+      {
+        "BowAim": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "BedAura": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "BreakRange": 6.0,
+          "PlaceRange": 5,
+          "HitDelay": 1,
+          "PlaceDelay": 1,
+          "AntiSuicide": true,
+          "MinHealth": 4.0,
+          "RayTrace": true,
+          "AutoSwitch": true,
+          "AutoMove": true,
+          "Rotate": true
+        }
+      },
+      {
+        "NoFall": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "FallDistance": 3,
+          "Mode": "PACKET"
+        }
+      },
+      {
+        "PacketCanceller": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "CPacketInput": false,
+          "CPacketPlayer": false,
+          "CPacketEntityAction": false,
+          "CPacketUseEntity": false,
+          "CPacketVehicleMove": false
+        }
+      },
+      {
+        "PortalGodmode": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "AutoFish": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "BOUNCE",
+          "Cast": true
+        }
+      },
+      {
+        "RubberFill": {
+          "Bind": "P",
+          "Enabled": false,
+          "Visible": true,
+          "Jump": true,
+          "Bypass": true
+        }
+      },
+      {
+        "PacketMine": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "PacketFly": {
+          "Bind": "R",
+          "Enabled": false,
+          "Visible": true,
+          "Type": "DESYNC",
+          "PacketMode": "PRESERVE",
+          "Strict": false,
+          "Bounds": false,
+          "Phase": "NCP",
+          "MultiAxis": false,
+          "Speed": 1.1,
+          "Factor": 1.0,
+          "AntiKick": "NORMAL",
+          "Limit": false,
+          "Constrict": false,
+          "Jitter": false,
+          "Boost": false
+        }
+      },
+      {
+        "Phase": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "SAND",
+          "NoVoid": true,
+          "AutoClip": false,
+          "Distance": 6.0
+        }
+      },
+      {
+        "Tooltips": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Texture": true,
+          "CustomColor": false,
+          "Color": [
+            -65281,
+            true
+          ],
+          "Shulkers": true,
+          "Maps": true
+        }
+      },
+      {
+        "RPC": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Cute": false,
+          "Invite": true
+        }
+      },
+      {
+        "Notify": {
+          "Bind": "NONE",
+          "Enabled": true,
+          "Visible": false,
+          "Modules": true
+        }
+      },
+      {
+        "NoForge": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "Auto32k": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "PlayerRange": 6.0,
+          "AttackRange": 3.6,
+          "ArmorCheck": false,
+          "BlockShulker": false,
+          "KillAura": true,
+          "Mode": "TICK",
+          "Delay": 0.02,
+          "Ticks": 3,
+          "Friends": false,
+          "Walls": true
+        }
+      },
+      {
+        "AutoLog": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Mode": "HEALTH",
+          "Health": 10.0,
+          "CrystalRange": 10.0,
+          "IgnoreTotem": true
+        }
+      },
+      {
+        "AntiChainPop": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true
+        }
+      },
+      {
+        "Waypoints": {
+          "Bind": "NONE",
+          "Enabled": false,
+          "Visible": true,
+          "Custom": false,
+          "CTracers": false,
+          "CTracersC": [
+            -16776961,
+            false
+          ],
+          "CFill": true,
+          "CFillC": [
+            1426063615,
+            false
+          ],
+          "COutline": true,
+          "COutlineC": [
+            -16776961,
+            false
+          ],
+          "Logouts": false,
+          "RenderLogouts": true,
+          "LTracers": false,
+          "LTracersC": [
+            -16777216,
+            false
+          ],
+          "LFill": true,
+          "LFillC": [
+            1442775295,
+            false
+          ],
+          "LOutline": true,
+          "LOutlineC": [
+            -65536,
+            false
+          ],
+          "Deaths": false,
+          "RenderDeaths": true,
+          "DTracers": false,
+          "DTracersC": [
+            -16711936,
+            false
+          ],
+          "DFill": true,
+          "DFillC": [
+            1426128640,
+            false
+          ],
+          "DOutline": true,
+          "DOutlineC": [
+            -16711936,
+            false
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Containers": [
+      {
+        "Arraylist": {
+          "Enabled": true,
+          "Visible": true,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0,
+          "Cute": false,
+          "Color": [
+            -12338187,
+            true
+          ]
+        }
+      },
+      {
+        "Player": {
+          "Enabled": false,
+          "Visible": false,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0,
+          "Yaw": true,
+          "Pitch": true
+        }
+      },
+      {
+        "TabGUI": {
+          "Enabled": false,
+          "Visible": false,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0,
+          "Selected": [
+            -16776961,
+            true
+          ],
+          "Toggled": [
+            -16776961,
+            true
+          ]
+        }
+      },
+      {
+        "Inventory": {
+          "Enabled": false,
+          "Visible": false,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0,
+          "Background": "TEXTURE"
+        }
+      },
+      {
+        "Watermark": {
+          "Enabled": true,
+          "Visible": true,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0,
+          "Color": [
+            -5960715,
+            false
+          ],
+          "Mode": "TEXT"
+        }
+      },
+      {
+        "Target": {
+          "Enabled": false,
+          "Visible": false,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0,
+          "Yaw": true,
+          "Pitch": true,
+          "Outline": false,
+          "LineWidth": 1.0,
+          "OutlineColor": [
+            -788530695,
+            false
+          ],
+          "Fill": true,
+          "FillColor": [
+            -2147483648,
+            false
+          ]
+        }
+      },
+      {
+        "Armor": {
+          "Enabled": true,
+          "Visible": true,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0,
+          "Mode": "PERCENTAGE"
+        }
+      },
+      {
+        "Coords": {
+          "Enabled": true,
+          "Visible": true,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0
+        }
+      },
+      {
+        "TPS": {
+          "Enabled": false,
+          "Visible": false,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0
+        }
+      },
+      {
+        "Speed": {
+          "Enabled": true,
+          "Visible": true,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0,
+          "Kilometers": true,
+          "Places": 2,
+          "Vertical": true
+        }
+      },
+      {
+        "Ping": {
+          "Enabled": true,
+          "Visible": true,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0
+        }
+      },
+      {
+        "FPS": {
+          "Enabled": true,
+          "Visible": true,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0
+        }
+      },
+      {
+        "InvInfo": {
+          "Enabled": true,
+          "Visible": true,
+          "xModuleAnchor": "self",
+          "yModuleAnchor": "self",
+          "xAnchor": 0,
+          "yAnchor": 0,
+          "Crystals": true,
+          "Gaps": true,
+          "Totems": true,
+          "XP": true
+        }
+      }
+    ]
+  },
+  {
+    "Panels": [
+      {
+        "COMBAT": {
+          "X": 458.0,
+          "Y": 35.0,
+          "Extended": true
+        }
+      },
+      {
+        "MOVEMENT": {
+          "X": 295.0,
+          "Y": 35.0,
+          "Extended": true
+        }
+      },
+      {
+        "PLAYER": {
+          "X": 692.0,
+          "Y": 34.0,
+          "Extended": true
+        }
+      },
+      {
+        "HUD Editor": {
+          "X": 855.0,
+          "Y": 519.0,
+          "Extended": true
+        }
+      },
+      {
+        "MISC": {
+          "X": 158.0,
+          "Y": 35.0,
+          "Extended": true
+        }
+      },
+      {
+        "EXPLOIT": {
+          "X": 820.0,
+          "Y": 31.0,
+          "Extended": true
+        }
+      },
+      {
+        "CLIENT": {
+          "X": 576.0,
+          "Y": 34.0,
+          "Extended": true
+        }
+      },
+      {
+        "Containers": {
+          "X": 304.0,
+          "Y": 40.0,
+          "Extended": true
+        }
+      },
+      {
+        "RENDER": {
+          "X": 24.0,
+          "Y": 36.0,
+          "Extended": true
+        }
+      },
+      {
+        "Description": {
+          "X": 50.0,
+          "Y": 202.0,
+          "Extended": false
+        }
+      },
+      {
+        "Arraylist": {
+          "X": 884.5,
+          "Y": 105.0,
+          "Extended": true
+        }
+      },
+      {
+        "Player": {
+          "X": 0.0,
+          "Y": 33.0,
+          "Extended": false
+        }
+      },
+      {
+        "TabGUI": {
+          "X": 13.0,
+          "Y": 90.0,
+          "Extended": false
+        }
+      },
+      {
+        "Inventory": {
+          "X": 400.0,
+          "Y": 400.0,
+          "Extended": false
+        }
+      },
+      {
+        "Watermark": {
+          "X": 4.0,
+          "Y": 4.0,
+          "Extended": true
+        }
+      },
+      {
+        "Target": {
+          "X": 760.0,
+          "Y": 0.0,
+          "Extended": false
+        }
+      },
+      {
+        "Armor": {
+          "X": 487.0,
+          "Y": 469.0,
+          "Extended": true
+        }
+      },
+      {
+        "Coords": {
+          "X": 0.0,
+          "Y": 514.0,
+          "Extended": true
+        }
+      },
+      {
+        "TPS": {
+          "X": 24.0,
+          "Y": 246.0,
+          "Extended": false
+        }
+      },
+      {
+        "Speed": {
+          "X": 0.0,
+          "Y": 70.0,
+          "Extended": true
+        }
+      },
+      {
+        "Ping": {
+          "X": 471.0,
+          "Y": 0.0,
+          "Extended": true
+        }
+      },
+      {
+        "FPS": {
+          "X": 877.0,
+          "Y": 0.0,
+          "Extended": true
+        }
+      },
+      {
+        "InvInfo": {
+          "X": 581.0,
+          "Y": 504.0,
+          "Extended": true
+        }
+      }
+    ]
+  },
+  {
+    "Friends": [
+      {
+      }
+    ]
+  },
+  {
+    "Prefix": "."
+  },
+  {},
+  {
+    "Macros": []
+  },
+  {
+    "Waypoints": []
+  },
+  "default"
+]
